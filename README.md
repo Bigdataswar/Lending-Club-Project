@@ -1,4 +1,4 @@
-# Lending-Club-Project
+# Data ingestion and modification
 This project focuses on cleaning, optimizing, and analysing Lending Club data to better understand loan performance and customer behaviour.
 
  **Project Overview**
